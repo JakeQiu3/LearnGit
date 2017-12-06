@@ -9,6 +9,5 @@ Git has a mutable index called stage.
 更改工作区1
 Creating a new branch dev is quick.
 我在主分支上也修改该文件了
-feature1 我创建的
 
 分支管理策略
