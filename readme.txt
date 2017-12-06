@@ -13,3 +13,4 @@ Creating a new branch dev is quick.
 分支管理策略
 
 1、我再修改bug
+2、我在dev在修改bug,据说bug来了，我要建一个bug分支
