@@ -11,3 +11,5 @@ Creating a new branch dev is quick.
 我在主分支上也修改该文件了
 
 分支管理策略
+
+1、我再修改bug
