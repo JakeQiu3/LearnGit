@@ -14,4 +14,4 @@ Creating a new branch dev is quick.
 
 1、我再修改bug
 2、我在dev在修改bug,据说bug来了，我要建一个bug分支
-3、
+3、我是开发者4，在修改该文件
